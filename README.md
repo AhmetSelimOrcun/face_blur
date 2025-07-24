@@ -21,6 +21,6 @@
    python face_blur.py
 ### (Dipnot: Q tuşuna basarak kapatabilirsiniz)
 
-## Proje çalışırken alınmış bir ekran görüntüsü 
+## Uygulama çalışırken alınmış bir ekran görüntüsü 
 
 <img width="1269" height="952" alt="Gercek Zamanli Yüz Blurlama_screenshot_24 07 2025" src="https://github.com/user-attachments/assets/43efbab1-4600-4e39-9fdc-5c9881b76f9c" />
