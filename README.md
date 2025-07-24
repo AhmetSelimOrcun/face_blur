@@ -19,3 +19,4 @@
 3. Terminal veya herhangi bir IDE üzerinden aşağıdaki komutla çalıştırın:
    ```bash
    **python face_blur.py**
+Proje çalışırken alınmış bir ekran görüntüsü <img width="1269" height="952" alt="Gercek Zamanli Yüz Blurlama_screenshot_24 07 2025" src="https://github.com/user-attachments/assets/dfcc80c4-31eb-4b23-af87-c39e7442ed5a" />
