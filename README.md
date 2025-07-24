@@ -18,7 +18,9 @@
 2. `face_blur.py` dosyası ile `haarcascade_frontalface_default.xml` dosyası **aynı dizinde** bulunmalıdır.
 3. Terminal veya herhangi bir IDE üzerinden aşağıdaki komutla çalıştırın:
    ```bash
-   **python face_blur.py**
+   python face_blur.py
+### (Dipnot: Q tuşuna basarak kapatabilirsiniz)
+
 ## Proje çalışırken alınmış bir ekran görüntüsü 
 
-<img width="1269" height="952" alt="Gercek Zamanli Yüz Blurlama_screenshot_24 07 2025" src="https://github.com/user-attachments/assets/dfcc80c4-31eb-4b23-af87-c39e7442ed5a" />
+<img width="1269" height="952" alt="Gercek Zamanli Yüz Blurlama_screenshot_24 07 2025" src="https://github.com/user-attachments/assets/43efbab1-4600-4e39-9fdc-5c9881b76f9c" />
